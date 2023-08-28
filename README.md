@@ -5,6 +5,8 @@ barry.rerecich@gmail.com
 
 Working Demo: https://huggingface.co/spaces/barrymoana/CNN-Cat-Dog-Classifier
 
+Can also test model locally by running app.py
+
 ### Importing Required Libraries
 
 In this cell, we import all the necessary libraries for the project. This includes libraries for file handling (`os`), image manipulation (`PIL`), numerical operations (`numpy`, `pandas`), data visualization (`matplotlib`, `plotly`), and deep learning (`tensorflow`). Additionally, we import `train_test_split` from `sklearn` to split our dataset into training and validation sets.
