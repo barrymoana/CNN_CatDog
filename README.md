@@ -5,7 +5,7 @@ barry.rerecich@gmail.com
 
 Working Demo: https://huggingface.co/spaces/barrymoana/CNN-Cat-Dog-Classifier
 
-Can also test model locally by running app.py
+Can also test model locally by running app.ipynb
 
 ### Importing Required Libraries
 
