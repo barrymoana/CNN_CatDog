@@ -1,2 +1,1 @@
 
-Welcome to my Deep Learning project on image classification! This repository showcases my exploration of Convolutional Neural Networks (CNNs) to classify images of cats and dogs. I've designed and trained various CNN architectures, comparing their performance with and without dropout regularization. The project aims to provide insights into CNN architecture complexities and the effectiveness of dropout. Check out the code, dataset, and findings in this repository. 
